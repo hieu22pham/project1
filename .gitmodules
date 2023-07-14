@@ -1,3 +1,7 @@
 [submodule "project"]
-	path = project
-	url = https://github.com/hieu22pham/project1.git
+    path = project
+    url = https://github.com/hieu22pham/project1.git
+
+[submodule "database"]
+    path = database
+    url = https://github.com/hieu22pham/project1.git
