@@ -1,0 +1,21 @@
+{
+  "book-room": [],
+  "rooms": [
+    {
+      "nameRoom": "1",
+      "quantityBed": 2,
+      "maxPeople": 2,
+      "status": true,
+      "service": true,
+      "id": 3
+    },
+    {
+      "nameRoom": "phòng ngủ",
+      "quantityBed": 1,
+      "maxPeople": 2,
+      "status": true,
+      "service": true,
+      "id": 4
+    }
+  ]
+}
