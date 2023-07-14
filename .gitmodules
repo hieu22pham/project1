@@ -1,6 +1,3 @@
-[submodule "project1"]
-    path = project1
-    url = https://github.com/hieu22pham/project1.git
 
 [submodule "database"]
     path = database

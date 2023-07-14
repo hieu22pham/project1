@@ -1,0 +1,13 @@
+.image{
+    margin-left: 20vw;
+}
+
+img{
+    object-fit: cover;
+    
+}
+
+.a{  margin-top: -50px;
+    margin-left: 20vw;
+    font-size: 40px;
+}

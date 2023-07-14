@@ -1,0 +1,29 @@
+.list-room{
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 55px;
+}
+
+.btnIsGrid{
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.dot{
+  position: absolute;
+  left: 105px;
+  top: 43px;
+}
+
+.table-room{
+  width: 900px;
+  margin-left: 30px;
+  margin-top: 30px;
+  border: 1px black solid;
+  border-radius: 8px;
+}
+
+/* .room-item{
+  position: absolute;
+  right: 50px;
+} */

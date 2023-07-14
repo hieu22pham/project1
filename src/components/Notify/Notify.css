@@ -1,0 +1,24 @@
+.notify__dropDown {
+	border-radius: 5px;
+	overflow: hidden;
+	border: 1px #ddd solid;
+	width: 250px;
+	background-color: #fff;
+}
+
+.notify__header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 10px;
+	border-bottom: 1px #ddd solid;
+}
+
+.notify__body {
+	max-height: 200px;
+	overflow-y: auto;
+}
+
+.ant-dropdown-menu-title-content {
+	border-bottom: 1px #ddd solid;
+}
